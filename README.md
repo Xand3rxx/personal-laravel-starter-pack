@@ -10,7 +10,7 @@ This Laravel starter pack is configured to get you up and running with basic Lar
 
 This web application features the following:
 
-1. A custom user url middleware.
+1. A custom user url segment middleware.
 2. User and Role seeders.
 3. Tailwind CSS configuration
 4. Web route configuration.
