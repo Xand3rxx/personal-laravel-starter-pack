@@ -14,13 +14,14 @@ This web application features the following:
 2. User and Role seeders.
 3. Tailwind CSS configuration
 4. Web route configuration.
-5. Traits
-   - Change password
-   - Generate UUID for models.
-   - Generate a unique identifier.
-   - Recursive model status column update.
+5. Laravel ui bootstrap auth scaffolding excluding its assets.
+6. Traits
+    - Change password
+    - Generate UUID for models.
+    - Generate a unique identifier.
+    - Recursive model status column update.
 
-## Expenses and Budgeting Application Setup
+## Application Setup
 
 1. CD into the application root directory with your command prompt/terminal/git bash.
 
